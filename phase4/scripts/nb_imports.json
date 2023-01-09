@@ -1,0 +1,539 @@
+{
+    "numpy": {
+        "type": "Import",
+        "name": "numpy",
+        "asname": "np"
+    },
+    "matplotlib.pyplot": {
+        "type": "Import",
+        "name": "matplotlib.pyplot",
+        "asname": "plt"
+    },
+    "seaborn": {
+        "type": "Import",
+        "name": "seaborn",
+        "asname": "sns"
+    },
+    "pandas": {
+        "type": "Import",
+        "name": "pandas",
+        "asname": "pd",
+        "dual": true,
+        "classes": {
+            "Series": {
+                "name": "Series",
+                "asname": null
+            }
+        },
+        "library": "pandas"
+    },
+    "datetime": {
+        "type": "Import",
+        "name": "datetime",
+        "asname": null
+    },
+    "sklearn.linear_model": {
+        "library": "sklearn",
+        "subpackage": "linear_model",
+        "classes": {
+            "LinearRegression": {
+                "name": "LinearRegression",
+                "asname": null
+            },
+            "Lasso": {
+                "name": "Lasso",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "time": {
+        "type": "Import",
+        "name": "time",
+        "asname": null
+    },
+    "sklearn": {
+        "library": "sklearn",
+        "subpackage": "",
+        "classes": {
+            "metrics": {
+                "name": "metrics",
+                "asname": null
+            },
+            "svm": {
+                "name": "svm",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.preprocessing": {
+        "library": "sklearn",
+        "subpackage": "preprocessing",
+        "classes": {
+            "StandardScaler": {
+                "name": "StandardScaler",
+                "asname": null
+            },
+            "LabelBinarizer": {
+                "name": "LabelBinarizer",
+                "asname": null
+            },
+            "OneHotEncoder": {
+                "name": "OneHotEncoder",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.decomposition": {
+        "library": "sklearn",
+        "subpackage": "decomposition",
+        "classes": {
+            "PCA": {
+                "name": "PCA",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.model_selection": {
+        "library": "sklearn",
+        "subpackage": "model_selection",
+        "classes": {
+            "train_test_split": {
+                "name": "train_test_split",
+                "asname": null
+            },
+            "GridSearchCV": {
+                "name": "GridSearchCV",
+                "asname": null
+            },
+            "cross_val_predict": {
+                "name": "cross_val_predict",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.neighbors": {
+        "library": "sklearn",
+        "subpackage": "neighbors",
+        "classes": {
+            "KNeighborsClassifier": {
+                "name": "KNeighborsClassifier",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.datasets": {
+        "library": "sklearn",
+        "subpackage": "datasets",
+        "classes": {
+            "load_digits": {
+                "name": "load_digits",
+                "asname": null
+            },
+            "make_blobs": {
+                "name": "make_blobs",
+                "asname": null
+            },
+            "load_breast_cancer": {
+                "name": "load_breast_cancer",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "surprise": {
+        "library": "surprise",
+        "subpackage": "",
+        "classes": {
+            "Reader": {
+                "name": "Reader",
+                "asname": null
+            },
+            "Dataset": {
+                "name": "Dataset",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "surprise.model_selection": {
+        "library": "surprise",
+        "subpackage": "model_selection",
+        "classes": {
+            "GridSearchCV": {
+                "name": "GridSearchCV",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "surprise.prediction_algorithms": {
+        "library": "surprise",
+        "subpackage": "prediction_algorithms",
+        "classes": {
+            "KNNWithMeans": {
+                "name": "KNNWithMeans",
+                "asname": null
+            },
+            "KNNBasic": {
+                "name": "KNNBasic",
+                "asname": null
+            },
+            "KNNBaseline": {
+                "name": "KNNBaseline",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.cluster": {
+        "library": "sklearn",
+        "subpackage": "cluster",
+        "classes": {
+            "KMeans": {
+                "name": "KMeans",
+                "asname": null
+            },
+            "AgglomerativeClustering": {
+                "name": "AgglomerativeClustering",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.metrics": {
+        "library": "sklearn",
+        "subpackage": "metrics",
+        "classes": {
+            "calinski_harabasz_score": {
+                "name": "calinski_harabasz_score",
+                "asname": null
+            },
+            "adjusted_rand_score": {
+                "name": "adjusted_rand_score",
+                "asname": null
+            },
+            "mean_squared_error": {
+                "name": "mean_squared_error",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "pandas.tseries": {
+        "type": "Import",
+        "name": "pandas.tseries",
+        "asname": null
+    },
+    "statsmodels.api": {
+        "type": "Import",
+        "name": "statsmodels.api",
+        "asname": "sm"
+    },
+    "warnings": {
+        "type": "Import",
+        "name": "warnings",
+        "asname": null
+    },
+    "matplotlib.pylab": {
+        "type": "Import",
+        "name": "matplotlib.pylab",
+        "asname": "plt",
+        "dual": true,
+        "classes": {
+            "rcParams": {
+                "name": "rcParams",
+                "asname": null
+            }
+        },
+        "library": "matplotlib.pylab"
+    },
+    "statsmodels.tsa.stattools": {
+        "library": "statsmodels",
+        "subpackage": "tsa.stattools",
+        "classes": {
+            "adfuller": {
+                "name": "adfuller",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "statsmodels.graphics.tsaplots": {
+        "library": "statsmodels",
+        "subpackage": "graphics.tsaplots",
+        "classes": {
+            "plot_acf": {
+                "name": "plot_acf",
+                "asname": null
+            },
+            "plot_pacf": {
+                "name": "plot_pacf",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "statsmodels.tools.sm_exceptions": {
+        "library": "statsmodels",
+        "subpackage": "tools.sm_exceptions",
+        "classes": {
+            "ConvergenceWarning": {
+                "name": "ConvergenceWarning",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "statsmodels.tsa.arima.model": {
+        "library": "statsmodels",
+        "subpackage": "tsa.arima.model",
+        "classes": {
+            "ARIMA": {
+                "name": "ARIMA",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "pyspark": {
+        "type": "Import",
+        "name": "pyspark",
+        "asname": null
+    },
+    "random": {
+        "type": "Import",
+        "name": "random",
+        "asname": null
+    },
+    "string": {
+        "type": "Import",
+        "name": "string",
+        "asname": null
+    },
+    "nltk": {
+        "type": "Import",
+        "name": "nltk",
+        "asname": null,
+        "dual": true,
+        "classes": {
+            "word_tokenize": {
+                "name": "word_tokenize",
+                "asname": null
+            }
+        },
+        "library": "nltk"
+    },
+    "mpl_toolkits.mplot3d": {
+        "library": "mpl_toolkits",
+        "subpackage": "mplot3d",
+        "classes": {
+            "Axes3D": {
+                "name": "Axes3D",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.manifold": {
+        "library": "sklearn",
+        "subpackage": "manifold",
+        "classes": {
+            "TSNE": {
+                "name": "TSNE",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "nltk.tokenize": {
+        "library": "nltk",
+        "subpackage": "tokenize",
+        "classes": {
+            "word_tokenize": {
+                "name": "word_tokenize",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "re": {
+        "type": "Import",
+        "name": "re",
+        "asname": null
+    },
+    "nltk.corpus": {
+        "library": "nltk",
+        "subpackage": "corpus",
+        "classes": {
+            "gutenberg": {
+                "name": "gutenberg",
+                "asname": null
+            },
+            "stopwords": {
+                "name": "stopwords",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "nltk.collocations": {
+        "library": "nltk",
+        "subpackage": "collocations",
+        "classes": {
+            "*": {
+                "name": "*",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "keras": {
+        "type": "Import",
+        "name": "keras",
+        "asname": null,
+        "dual": true,
+        "classes": {
+            "regularizers": {
+                "name": "regularizers",
+                "asname": null
+            },
+            "optimizers": {
+                "name": "optimizers",
+                "asname": null
+            },
+            "models": {
+                "name": "models",
+                "asname": null
+            }
+        },
+        "library": "keras"
+    },
+    "keras.models": {
+        "library": "keras",
+        "subpackage": "models",
+        "classes": {
+            "Sequential": {
+                "name": "Sequential",
+                "asname": null
+            },
+            "load_model": {
+                "name": "load_model",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "keras.layers": {
+        "library": "keras",
+        "subpackage": "layers",
+        "classes": {
+            "Dense": {
+                "name": "Dense",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "os": {
+        "type": "Import",
+        "name": "os",
+        "asname": null
+    },
+    "keras.datasets": {
+        "library": "keras",
+        "subpackage": "datasets",
+        "classes": {
+            "mnist": {
+                "name": "mnist",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "keras.utils.np_utils": {
+        "library": "keras",
+        "subpackage": "utils.np_utils",
+        "classes": {
+            "to_categorical": {
+                "name": "to_categorical",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "keras.preprocessing.text": {
+        "library": "keras",
+        "subpackage": "preprocessing.text",
+        "classes": {
+            "Tokenizer": {
+                "name": "Tokenizer",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "keras.callbacks": {
+        "library": "keras",
+        "subpackage": "callbacks",
+        "classes": {
+            "EarlyStopping": {
+                "name": "EarlyStopping",
+                "asname": null
+            },
+            "ModelCheckpoint": {
+                "name": "ModelCheckpoint",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "sklearn.impute": {
+        "library": "sklearn",
+        "subpackage": "impute",
+        "classes": {
+            "SimpleImputer": {
+                "name": "SimpleImputer",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "keras.wrappers.scikit_learn": {
+        "library": "keras",
+        "subpackage": "wrappers.scikit_learn",
+        "classes": {
+            "KerasRegressor": {
+                "name": "KerasRegressor",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    },
+    "matplotlib.image": {
+        "type": "Import",
+        "name": "matplotlib.image",
+        "asname": "mpimg"
+    },
+    "math": {
+        "type": "Import",
+        "name": "math",
+        "asname": null
+    },
+    "tensorflow.keras.preprocessing": {
+        "library": "tensorflow",
+        "subpackage": "keras.preprocessing",
+        "classes": {
+            "image": {
+                "name": "image",
+                "asname": null
+            }
+        },
+        "type": "ImportFrom"
+    }
+}

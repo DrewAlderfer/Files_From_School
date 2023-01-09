@@ -1,0 +1,10 @@
+---
+:lessons:
+- :id: 5128
+  :course_id: 296
+  :canvas_url: https://learning.flatironschool.com/courses/296/pages/dsc-postgrad-repo-readability
+  :type: page
+- :id: 126398
+  :course_id: 153
+  :canvas_url: https://learning.flatironschool.com/courses/153/pages/repository-readability
+  :type: page
