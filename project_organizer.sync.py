@@ -4,6 +4,7 @@ import json
 import shutil
 from glob import iglob
 import time
+from typing import Tuple, Union, List
 import pprint as pp
 
 from github.GithubException import UnknownObjectException
@@ -27,56 +28,54 @@ gh = GhubCon()
 gh_repos = gh.my_repos
 
 # %%
-print(len(gh_repos))
-gh_repos
+def clean_up_repos(github_repos):
+    """
+    Looks for repos matching ^[0-9]{2}-[0-9]{2} in github repos and then deletes them.
+
+    Returns:
+        A list of repos that matched the pattern but where not deleted for whatever reason.
+    """
+    target_repos = [x for x in github_repos if x[:2].isdigit() and x[3:4].isdigit()]
+    result = target_repos.copy()
+    for repo in target_repos:
+        time.sleep(.05)
+        try:
+            gh.conn.get_user('DrewAlderfer').get_repo(repo).delete()
+            print(f"deleting {repo}")
+            result.remove(repo)
+        except UnknownObjectException:
+            continue
+
+    return result
 
 # %%
-target_repos = [x for x in gh_repos if x[:2].isdigit() and x[3:4].isdigit()]
-print(len(target_repos))
-target_repos
+def match_local_with_db(github:GhubCon, module_range:Tuple[int, int]=(0, 0)) -> None:
+    """
+    Grabs information from the lesson database and forks the repos for those lessons, clones them
+    to the local directory and then deletes them from github.
 
-# %%
-for repo in target_repos:
-    time.sleep(.05)
-    try:
-        gh.conn.get_user('DrewAlderfer').get_repo(repo).delete()
-        print(f"deleting {repo}")
-    except UnknownObjectException:
-        continue
-
-# %%
-with open("C:/Users/Drew Alderfer/code/flatiron/projects/lesson_db.json", "r") as file:
-    repo_db = json.load(file)
-
-# %%
-target_repos = {k: v for k, v in repo_db.items() if int(k[:2]) < 20 and int(k[:2]) > 10}
-print(len(target_repos))
-print(list(target_repos.values())[-1])
+    returns:
+        None
+    """
 
 
-# %%
-repos, forked, tries = gh.fork_repos(repo_db=target_repos)
-print(f"Forked {forked} projects from {tries} overall tries.")
-repos = gh.local_update(repos, True)
+    with open("../lesson_db.json", "r") as file:
+        repo_db = json.load(file)
 
-# %%
-for repo in target_repos.values():
-    time.sleep(.05)
-    try:
-        gh.conn.get_user('DrewAlderfer').get_repo(repo['repo_name']).delete()
-        print(f"deleting {repo['repo_name']}")
-    except UnknownObjectException:
-        continue
+    lo_num, hi_num = module_range
+    target_repos = {k: v for k, v in repo_db.items() if int(k[:2]) > lo_num and int(k[:2]) < hi_num}
 
-# %%
-keys = list(repo_db.keys())
-keys.sort()
-sorted_db = {}
-for key in keys:
-    sorted_db.update({f"{key}":repo_db[key]})
-
-# %%
-for i in range(10):
-    pp.pprint(list(sorted_db.items())[i])
+    # fork the target repos
+    repos, _, _ = github.fork_repos(repo_db=target_repos)
+    # clone the target repos to the local projects folder
+    repos = github.local_update(repos, True)
+    # clean up github repos
+    for repo in target_repos.values():
+        time.sleep(.05)
+        try:
+            gh.conn.get_user('DrewAlderfer').get_repo(repo['repo_name']).delete()
+            print(f"deleting {repo['repo_name']}")
+        except UnknownObjectException:
+            continue
 
 
