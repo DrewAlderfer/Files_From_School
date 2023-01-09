@@ -1,0 +1,138 @@
+21,01,Object-Oriented Programming - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/455686,https://github.com/learn-co-curriculum/dsc-oop-intro-v2-4
+21,02,Classes and Instances,https://learning.flatironschool.com/courses/5545/modules/items/455689,https://github.com/learn-co-curriculum/dsc-classes-and-instances
+21,03,Classes and Instances - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455693,https://github.com/learn-co-curriculum/dsc-classes-and-instances-lab
+21,04,Instance Methods,https://learning.flatironschool.com/courses/5545/modules/items/455696,https://github.com/learn-co-curriculum/dsc-instance-methods
+21,05,Instance Methods - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455700,https://github.com/learn-co-curriculum/dsc-instance-methods-lab
+21,06,A Deeper Dive into self,https://learning.flatironschool.com/courses/5545/modules/items/455705,https://github.com/learn-co-curriculum/dsc-understanding-self
+21,07,Object Attributes - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455710,https://github.com/learn-co-curriculum/dsc-object-attributes-lab
+21,08,Object Initialization,https://learning.flatironschool.com/courses/5545/modules/items/455714,https://github.com/learn-co-curriculum/dsc-object-initialization
+21,09,Object Initialization - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455717,https://github.com/learn-co-curriculum/dsc-object-initialization-lab
+21,11,Inheritance,https://learning.flatironschool.com/courses/5545/modules/items/455735,https://github.com/learn-co-curriculum/dsc-inheritance
+21,12,Inheritance - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455740,https://github.com/learn-co-curriculum/dsc-inheritance-lab
+21,13,OOP with Scikit-Learn,https://learning.flatironschool.com/courses/5545/modules/items/455745,https://github.com/learn-co-curriculum/dsc-oop-sklearn
+21,14,OOP with Scikit-Learn - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455753,https://github.com/learn-co-curriculum/dsc-oop-sklearn-lab
+21,17,Object-Oriented Programming - Recap,https://learning.flatironschool.com/courses/5545/modules/items/455778,https://github.com/learn-co-curriculum/dsc-oop-recap-v2-1
+22,01,Linear Algebra and Calculus - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/455795,https://github.com/learn-co-curriculum/dsc-linear-algebra-and-calculus-intro
+22,02,Motivation for Linear Algebra in Data Science,https://learning.flatironschool.com/courses/5545/modules/items/455799,https://github.com/learn-co-curriculum/dsc-lingalg-motivation
+22,03,Systems of Linear Equations,https://learning.flatironschool.com/courses/5545/modules/items/455804,https://github.com/learn-co-curriculum/dsc-lingalg-linear-equations
+22,04,Systems of Linear Equations - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455809,https://github.com/learn-co-curriculum/dsc-lingalg-linear-equations-quiz
+22,05,Scalars, Vectors, Matrices, and Tensors - Code Along,https://learning.flatironschool.com/courses/5545/modules/items/455813,https://github.com/learn-co-curriculum/dsc-scalars-vectors-matrices-tensors-codealong
+22,06,Matrix Multiplication - Code Along,https://learning.flatironschool.com/courses/5545/modules/items/455815,https://github.com/learn-co-curriculum/dsc-linalg-mat-multiplication-codealong
+22,08,Solving Systems of Linear Equations with NumPy - Code Along,https://learning.flatironschool.com/courses/5545/modules/items/455824,https://github.com/learn-co-curriculum/dsc-lineq-numpy-codealong
+22,09,Solving Systems of Linear Equations with NumPy - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455827,https://github.com/learn-co-curriculum/dsc-lineq-numpy-lab
+22,10,Regression Analysis using Linear Algebra and NumPy - Code Along,https://learning.flatironschool.com/courses/5545/modules/items/455832,https://github.com/learn-co-curriculum/dsc-linalg-regression-codealong
+22,11,Regression with Linear Algebra - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455837,https://github.com/learn-co-curriculum/dsc-linalg-regression-lab
+22,12,Computational Complexity: From OLS to Gradient Descent,https://learning.flatironschool.com/courses/5545/modules/items/455840,https://github.com/learn-co-curriculum/dsc-computational-complexity
+22,14,Introduction to Derivatives,https://learning.flatironschool.com/courses/5545/modules/items/455861,https://github.com/learn-co-curriculum/dsc-derivatives-intro
+22,15,Introduction to Derivatives - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455866,https://github.com/learn-co-curriculum/dsc-derivatives-intro-lab
+22,16,Derivatives of Non-Linear Functions,https://learning.flatironschool.com/courses/5545/modules/items/455871,https://github.com/learn-co-curriculum/dsc-derivatives-of-non-linear-functions
+22,17,Rules for Derivatives,https://learning.flatironschool.com/courses/5545/modules/items/455876,https://github.com/learn-co-curriculum/dsc-rules-for-derivatives
+22,18,Derivatives: Conclusion,https://learning.flatironschool.com/courses/5545/modules/items/455881,https://github.com/learn-co-curriculum/dsc-derivatives-conclusion
+22,21,Introduction to Gradient Descent,https://learning.flatironschool.com/courses/5545/modules/items/455897,https://github.com/learn-co-curriculum/dsc-gradient-descent-intro
+22,22,Gradient Descent: Step Sizes,https://learning.flatironschool.com/courses/5545/modules/items/455902,https://github.com/learn-co-curriculum/dsc-gradient-descent-step-sizes
+22,23,Gradient Descent: Step Sizes - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455907,https://github.com/learn-co-curriculum/dsc-gradient-descent-step-sizes-lab
+22,24,Gradient Descent in 3D,https://learning.flatironschool.com/courses/5545/modules/items/455912,https://github.com/learn-co-curriculum/dsc-gradient-descent-in-3d
+22,25,The Gradient in Gradient Descent,https://learning.flatironschool.com/courses/5545/modules/items/455916,https://github.com/learn-co-curriculum/dsc-the-gradient-in-gradient-descent
+22,27,Gradient to Cost Function,https://learning.flatironschool.com/courses/5545/modules/items/455924,https://github.com/learn-co-curriculum/dsc-gradient-to-cost-function-v2-1
+22,28,Applying Gradient Descent - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455928,https://github.com/learn-co-curriculum/dsc-applying-gradient-descent-lab
+22,29,Linear Algebra and Calculus - Recap,https://learning.flatironschool.com/courses/5545/modules/items/455948,https://github.com/learn-co-curriculum/dsc-linear-algebra-and-calculus-recap
+23,01,Machine Learning Fundamentals - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/455964,https://github.com/learn-co-curriculum/dsc-ml-fundamentals-intro
+23,02,Data Science Processes,https://learning.flatironschool.com/courses/5545/modules/items/455971,https://github.com/learn-co-curriculum/dsc-data-science-processes
+23,03,Statistical Learning Theory,https://learning.flatironschool.com/courses/5545/modules/items/455975,https://github.com/learn-co-curriculum/dsc-stat-learning-theory-v2-5
+23,04,Regression Model Validation,https://learning.flatironschool.com/courses/5545/modules/items/455980,https://github.com/learn-co-curriculum/dsc-regression-model-validation
+23,05,Regression Model Validation - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455982,https://github.com/learn-co-curriculum/dsc-regression-model-validation-lab
+23,06,Introduction to Cross-Validation,https://learning.flatironschool.com/courses/5545/modules/items/455987,https://github.com/learn-co-curriculum/dsc-cross-validation
+23,07,Introduction to Cross-Validation - Lab,https://learning.flatironschool.com/courses/5545/modules/items/455993,https://github.com/learn-co-curriculum/dsc-cross-validation-lab
+23,09,Bias-Variance Tradeoff,https://learning.flatironschool.com/courses/5545/modules/items/456002,https://github.com/learn-co-curriculum/dsc-bias-variance-trade-off
+23,10,Bias-Variance Tradeoff - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456008,https://github.com/learn-co-curriculum/dsc-bias-variance-trade-off-lab
+23,13,Ridge and Lasso Regression,https://learning.flatironschool.com/courses/5545/modules/items/456048,https://github.com/learn-co-curriculum/dsc-ridge-and-lasso-regression
+23,14,Ridge and Lasso Regression - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456052,https://github.com/learn-co-curriculum/dsc-ridge-and-lasso-regression-lab
+23,15,Feature Selection Methods,https://learning.flatironschool.com/courses/5545/modules/items/456058,https://github.com/learn-co-curriculum/dsc-feature-selection-methods
+23,16,Extensions to Linear Models - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456063,https://github.com/learn-co-curriculum/dsc-extensions-to-linear-models-lab
+23,19,Machine Learning Fundamentals - Recap,https://learning.flatironschool.com/courses/5545/modules/items/456088,https://github.com/learn-co-curriculum/dsc-ml-fundamentals-recap
+24,01,Logistic Regression - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/456105,https://github.com/learn-co-curriculum/dsc-logistic-regression-intro-v2-4
+24,02,Introduction to Supervised Learning,https://learning.flatironschool.com/courses/5545/modules/items/456110,https://github.com/learn-co-curriculum/dsc-intro-to-supervised-learning-v2-1
+24,03,Linear to Logistic regression,https://learning.flatironschool.com/courses/5545/modules/items/456115,https://github.com/learn-co-curriculum/dsc-linear-to-logistic-regression
+24,04,Fitting a Logistic Regression Model - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456120,https://github.com/learn-co-curriculum/dsc-fitting-a-logistic-regression-model-lab
+24,05,Logistic Regression in scikit-learn,https://learning.flatironschool.com/courses/5545/modules/items/456125,https://github.com/learn-co-curriculum/dsc-logistic-regression-in-scikit-learn
+24,06,Logistic Regression in scikit-learn - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456130,https://github.com/learn-co-curriculum/dsc-logistic-regression-in-scikit-learn-lab
+24,08,MLE Review,https://learning.flatironschool.com/courses/5545/modules/items/456150,https://github.com/learn-co-curriculum/dsc-mle-review
+24,09,MLE and Logistic Regression,https://learning.flatironschool.com/courses/5545/modules/items/456154,https://github.com/learn-co-curriculum/dsc-mle-logistic-regression
+24,10,Gradient Descent Review,https://learning.flatironschool.com/courses/5545/modules/items/456157,https://github.com/learn-co-curriculum/dsc-gradient-descent-review
+24,11,Gradient Descent - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456161,https://github.com/learn-co-curriculum/dsc-gradient-descent-lab
+24,12,Coding Logistic Regression From Scratch - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456166,https://github.com/learn-co-curriculum/dsc-coding-logistic-regression-from-scratch
+24,13,Logistic Regression - Recap,https://learning.flatironschool.com/courses/5545/modules/items/456183,https://github.com/learn-co-curriculum/dsc-logistic-regression-recap
+25,01,Classification Metrics - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/456194,https://github.com/learn-co-curriculum/dsc-classification-metrics-intro
+25,02,Confusion Matrices,https://learning.flatironschool.com/courses/5545/modules/items/456198,https://github.com/learn-co-curriculum/dsc-confusion-matrices
+25,03,Visualizing Confusion Matrices - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456203,https://github.com/learn-co-curriculum/dsc-visualizing-confusion-matrices-lab
+25,04,Evaluation Metrics,https://learning.flatironschool.com/courses/5545/modules/items/456206,https://github.com/learn-co-curriculum/dsc-evaluation-metrics
+25,05,Evaluating Logistic Regression Models - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456210,https://github.com/learn-co-curriculum/dsc-evaluating-logistic-regression-models-lab
+25,06,ROC Curves and AUC,https://learning.flatironschool.com/courses/5545/modules/items/456226,https://github.com/learn-co-curriculum/dsc-roc-curves-and-auc
+25,07,ROC Curves and AUC - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456231,https://github.com/learn-co-curriculum/dsc-roc-curves-and-auc-lab
+25,08,Logistic Regression Model Comparisons - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456236,https://github.com/learn-co-curriculum/dsc-logistic-regression-model-comparisons-lab
+25,09,Class Imbalance Problems,https://learning.flatironschool.com/courses/5545/modules/items/456240,https://github.com/learn-co-curriculum/dsc-class-imbalance-problems
+25,10,Class Imbalance Problems - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456243,https://github.com/learn-co-curriculum/dsc-class-imbalance-problems-lab
+25,13,Classification Metrics - Recap,https://learning.flatironschool.com/courses/5545/modules/items/456287,https://github.com/learn-co-curriculum/dsc-classification-metrics-recap
+26,01,Decision Trees - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/456301,https://github.com/learn-co-curriculum/dsc-decision-trees-section-intro
+26,02,Introduction to Decision Trees,https://learning.flatironschool.com/courses/5545/modules/items/456305,https://github.com/learn-co-curriculum/dsc-introduction-to-decision-trees
+26,03,Entropy and Information Gain,https://learning.flatironschool.com/courses/5545/modules/items/456310,https://github.com/learn-co-curriculum/dsc-entropy-and-information-gain
+26,04,ID3 Classification Trees: Perfect Split with Information Gain - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456313,https://github.com/learn-co-curriculum/dsc-ID3-trees-lab
+26,05,Building Trees using scikit-learn,https://learning.flatironschool.com/courses/5545/modules/items/456317,https://github.com/learn-co-curriculum/dsc-decision-trees-with-sklearn-codealong
+26,06,Building Trees using scikit-learn - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456323,https://github.com/learn-co-curriculum/dsc-decision-trees-lab
+26,07,Hyperparameter Tuning and Pruning in Decision Trees,https://learning.flatironschool.com/courses/5545/modules/items/456328,https://github.com/learn-co-curriculum/dsc-tuning-decision-trees
+26,08,Hyperparameter Tuning and Pruning in Decision Trees - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456336,https://github.com/learn-co-curriculum/dsc-tuning-decision-trees-lab
+26,09,Regression with CART Trees,https://learning.flatironschool.com/courses/5545/modules/items/456341,https://github.com/learn-co-curriculum/dsc-regression-cart-trees-codealong
+26,10,Regression with CART Trees - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456346,https://github.com/learn-co-curriculum/dsc-regression-cart-trees-lab
+26,11,Regression Trees and Model Optimization - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456350,https://github.com/learn-co-curriculum/dsc-tuning-regression-trees-lab
+26,14,Decision Trees - Recap,https://learning.flatironschool.com/courses/5545/modules/items/456381,https://github.com/learn-co-curriculum/dsc-decision-trees-section-recap
+27,01,K-Nearest Neighbors - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/456400,https://github.com/learn-co-curriculum/dsc-knn-intro
+27,02,Distance Metrics,https://learning.flatironschool.com/courses/5545/modules/items/456404,https://github.com/learn-co-curriculum/dsc-distance-metrics
+27,03,Distance Metrics - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456408,https://github.com/learn-co-curriculum/dsc-distance-metrics-lab
+27,04,K-Nearest Neighbors,https://learning.flatironschool.com/courses/5545/modules/items/456413,https://github.com/learn-co-curriculum/dsc-k-nearest-neighbors
+27,05,K-Nearest Neighbors - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456420,https://github.com/learn-co-curriculum/dsc-k-nearest-neighbors-lab
+27,06,Finding the Best Value for K,https://learning.flatironschool.com/courses/5545/modules/items/456428,https://github.com/learn-co-curriculum/dsc-finding-the-best-value-for-k
+27,07,KNN with scikit-learn,https://learning.flatironschool.com/courses/5545/modules/items/456433,https://github.com/learn-co-curriculum/dsc-knn-with-scikit-learn
+27,08,KNN with scikit-learn - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456436,https://github.com/learn-co-curriculum/dsc-knn-with-scikit-learn-lab
+27,11,K-Nearest Neighbors - Recap,https://learning.flatironschool.com/courses/5545/modules/items/456467,https://github.com/learn-co-curriculum/dsc-knn-recap
+28,01,Bayesian Classification - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/456482,https://github.com/learn-co-curriculum/dsc-bayesian-classification-intro-v2-1
+28,02,Classifiers with Bayes,https://learning.flatironschool.com/courses/5545/modules/items/456488,https://github.com/learn-co-curriculum/dsc-classifiers-with-bayes
+28,03,Gaussian Naive Bayes,https://learning.flatironschool.com/courses/5545/modules/items/456493,https://github.com/learn-co-curriculum/dsc-gaussian-naive-bayes
+28,04,Gaussian Naive Bayes - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456497,https://github.com/learn-co-curriculum/dsc-gaussian-naive-bayes-lab
+28,05,Document Classification with Naive Bayes,https://learning.flatironschool.com/courses/5545/modules/items/456501,https://github.com/learn-co-curriculum/dsc-document-classification-with-naive-bayes
+28,06,Document Classification with Naive Bayes - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456506,https://github.com/learn-co-curriculum/dsc-document-classification-with-naive-bayes-lab
+28,09,Bayesian Classification - Recap,https://learning.flatironschool.com/courses/5545/modules/items/456537,https://github.com/learn-co-curriculum/dsc-bayesian-classification-recap-v2-1
+29,01,Model Tuning and Pipelines - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/456551,https://github.com/learn-co-curriculum/dsc-tuning-pipelines-intro
+29,02,GridSearchCV,https://learning.flatironschool.com/courses/5545/modules/items/456556,https://github.com/learn-co-curriculum/dsc-gridsearchcv
+29,03,Introduction to Pipelines,https://learning.flatironschool.com/courses/5545/modules/items/456564,https://github.com/learn-co-curriculum/dsc-pipelines-v2-1
+29,04,Pipelines in scikit-learn - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456569,https://github.com/learn-co-curriculum/dsc-pipelines-lab-v2-1
+29,05,Refactoring Your Code to Use Pipelines,https://learning.flatironschool.com/courses/5545/modules/items/456575,https://github.com/learn-co-curriculum/dsc-refactoring-with-pipelines
+29,07,Pickle,https://learning.flatironschool.com/courses/5545/modules/items/456599,https://github.com/learn-co-curriculum/dsc-pickle
+29,08,Pickling and Deploying Pipelines,https://learning.flatironschool.com/courses/5545/modules/items/456605,https://github.com/learn-co-curriculum/dsc-pickling-pipelines
+29,09,Model Tuning and Pipelines - Recap,https://learning.flatironschool.com/courses/5545/modules/items/456609,https://github.com/learn-co-curriculum/dsc-tuning-pipelines-recap
+30,01,Ensemble Methods - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/456625,https://github.com/learn-co-curriculum/dsc-ensemble-methods-section-intro
+30,02,Ensemble Methods,https://learning.flatironschool.com/courses/5545/modules/items/456630,https://github.com/learn-co-curriculum/dsc-ensemble-methods
+30,03,Random Forests,https://learning.flatironschool.com/courses/5545/modules/items/456634,https://github.com/learn-co-curriculum/dsc-random-forests
+30,04,Tree Ensembles and Random Forests - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456638,https://github.com/learn-co-curriculum/dsc-tree-ensembles-random-forests-lab
+30,05,GridSearchCV - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456644,https://github.com/learn-co-curriculum/dsc-gridsearchcv-lab
+30,06,Gradient Boosting and Weak Learners,https://learning.flatironschool.com/courses/5545/modules/items/456662,https://github.com/learn-co-curriculum/dsc-gradient-boosting-and-weak-learners
+30,07,Gradient Boosting - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456667,https://github.com/learn-co-curriculum/dsc-gradient-boosting-lab
+30,08,XGBoost,https://learning.flatironschool.com/courses/5545/modules/items/456672,https://github.com/learn-co-curriculum/dsc-xgboost
+30,09,XGBoost - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456678,https://github.com/learn-co-curriculum/dsc-xgboost-lab
+30,11,Ensembles - Recap,https://learning.flatironschool.com/courses/5545/modules/items/456712,https://github.com/learn-co-curriculum/dsc-ensemble-methods-section-recap
+30,12,Blogging Overview,https://learning.flatironschool.com/courses/5545/modules/items/456816,https://github.com/learn-co-curriculum/dsc-blogging-overview
+30,14,Object Oriented Attributes with Functions,https://learning.flatironschool.com/courses/5545/modules/items/456830,https://github.com/learn-co-curriculum/dsc-object-oriented-attributes-with-functions
+30,15,Object Oriented Attributes With Functions - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456834,https://github.com/learn-co-curriculum/dsc-object-oriented-attributes-with-functions-lab
+30,16,Object Oriented Shopping Cart - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456839,https://github.com/learn-co-curriculum/dsc-object-oriented-shopping-cart-lab
+30,17,Building an Object-Oriented Simulation,https://learning.flatironschool.com/courses/5545/modules/items/456844,https://github.com/learn-co-curriculum/dsc-building-an-object-oriented-simulation
+30,18,Building an Object-Oriented Simulation - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456849,https://github.com/learn-co-curriculum/dsc-building-an-object-oriented-simulation-lab
+30,19,Vector Addition and Broadcasting in NumPy - Code Along,https://learning.flatironschool.com/courses/5545/modules/items/456857,https://github.com/learn-co-curriculum/dsc-linalg-vector-addition-codealong
+30,20,Vectors and Matrices in Numpy - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456861,https://github.com/learn-co-curriculum/dsc-linalg-vector-matrices-numpy-lab
+30,21,Properties of Dot Product - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456865,https://github.com/learn-co-curriculum/dsc-linalg-dot-product-properties-lab
+30,22,Pure Python vs. Numpy - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456869,https://github.com/learn-co-curriculum/dsc-linalg-python-vs-numpy-lab
+30,23,Rules for Derivatives - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456875,https://github.com/learn-co-curriculum/dsc-rules-for-derivatives-lab
+30,24,Derivatives: the Chain Rule,https://learning.flatironschool.com/courses/5545/modules/items/456877,https://github.com/learn-co-curriculum/dsc-derivatives-chain-rule
+30,26,Support Vector Machines - Introduction,https://learning.flatironschool.com/courses/5545/modules/items/456890,https://github.com/learn-co-curriculum/dsc-svm-intro
+30,27,Introduction to Support Vector Machines,https://learning.flatironschool.com/courses/5545/modules/items/456892,https://github.com/learn-co-curriculum/dsc-introduction-to-support-vector-machines
+30,28,Building an SVM from Scratch - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456894,https://github.com/learn-co-curriculum/dsc-building-an-svm-from-scratch-lab
+30,29,Building an SVM using scikit-learn - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456896,https://github.com/learn-co-curriculum/dsc-building-an-svm-using-scikit-learn-lab
+30,31,Kernels in scikit-learn - Lab,https://learning.flatironschool.com/courses/5545/modules/items/456899,https://github.com/learn-co-curriculum/dsc-kernels-in-scikit-learn-lab

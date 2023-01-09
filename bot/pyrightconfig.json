@@ -1,0 +1,43 @@
+{
+  "include": [
+    "src"
+  ],
+  
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "src/experimental",
+    "src/typestubs"
+  ],
+
+  "ignore": [
+    "src/oldstuff"
+  ],
+
+  "defineConstant": {
+    "DEBUG": true
+  },
+
+  "stubPath": "src/stubs",
+  "venv": "learn-env",
+
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+
+  "pythonVersion": "3.8",
+  "pythonPlatform": "All",
+
+  "executionEnvironments": [
+    {
+      "root": "src/web",
+      "pythonVersion": "3.8",
+      "pythonPlatform": "Windows",
+      "extraPaths": [
+        "src/service_libs"
+      ]
+    },
+    {
+      "root": "src"
+    }
+  ]
+}
